@@ -1,16 +1,17 @@
-### Hi there 👋
+#### FULL-STACK .NET DEVELOPER — React, Angular, Vue | SQL Server, PostgreSQL
 
-<!--
-**aliakseiherman/aliakseiherman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ASP.NET MVC + jQuery, Knockout
 
-Here are some ideas to get you started:
+ASP.NET Web API (.NET 5) + SPA apps using React, Angular, Vue
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+My 3 projects on GitHub:
+
+* [**eixample**](https://github.com/aliakseiherman/eixample) — multi-tenant ASP.NET Core architecture: `EF Core + PostgreSQL + React, Vue, Angular`
+* [**eixample_webapi2**](https://github.com/aliakseiherman/eixample_webapi2) — same as above, only for proprietary ASP.NET: `EF + SQLServer + React, Vue, Angular`
+* [**feasible-ui**](https://github.com/aliakseiherman/feasible-ui) — react-based UI-toolkit written for scratch | _not based on other UI libraries, serves as a boilerplate providing essential controls_
+
+---
+
+#### Freelancer profile — [https://talent.hubstaff.com/profiles/aliaksei-herman](https://talent.hubstaff.com/profiles/aliaksei-herman)
