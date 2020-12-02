@@ -14,4 +14,4 @@ My 3 projects on GitHub:
 
 ---
 
-#### Freelancer profile — [https://talent.hubstaff.com/profiles/aliaksei-herman](https://talent.hubstaff.com/profiles/aliaksei-herman)
+#### FREELANCER PROFILE — [https://talent.hubstaff.com/profiles/aliaksei-herman](https://talent.hubstaff.com/profiles/aliaksei-herman)
