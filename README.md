@@ -2,7 +2,7 @@
 
 ---
 
-ASP.NET Web API (.NET 5) + SPA apps using React, Angular, Vue
+.NET Core (.NET 5) + SPA apps using React, Angular, Vue
 
 ASP.NET MVC + jQuery, Knockout
 
