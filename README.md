@@ -2,7 +2,7 @@
 
 ---
 
-My 5 projects:
+My projects:
 
 * [**feasible-ui**](https://aliakseiherman.github.io/feasible-ui) — react-based UI component library written from scratch | _not based on other UI libraries, serves as a boilerplate for a web app_
 * [**mern-multitenancy**](https://github.com/aliakseiherman/mern-multitenancy) — multi-tenant MERN architecture
