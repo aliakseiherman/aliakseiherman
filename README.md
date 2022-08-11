@@ -1,7 +1,3 @@
-#### FREELANCER PROFILE — [https://talent.hubstaff.com/profiles/aliaksei-herman](https://talent.hubstaff.com/profiles/aliaksei-herman)
-
----
-
 My projects:
 
 * [**feasible-ui**](https://aliakseiherman.github.io/feasible-ui) — react-based UI component library written from scratch | _not based on other UI libraries, serves as a boilerplate for a web app_
